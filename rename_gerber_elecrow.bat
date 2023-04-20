@@ -1,5 +1,3 @@
-@echo off
-
 set PROJECT="%1"
 set COMPANY="_elecrow"
 set OUTPUT="%PROJECT%%COMPANY%"

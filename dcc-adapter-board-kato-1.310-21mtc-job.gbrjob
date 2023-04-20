@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.1"
     },
-    "CreationDate": "2023-04-18T16:42:21+09:00"
+    "CreationDate": "2023-04-20T14:42:13+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -39,6 +39,16 @@
     {
       "Path": "dcc-adapter-board-kato-1.310-21mtc-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "dcc-adapter-board-kato-1.310-21mtc-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "dcc-adapter-board-kato-1.310-21mtc-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
