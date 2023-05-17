@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.1"
     },
-    "CreationDate": "2023-04-20T14:42:13+09:00"
+    "CreationDate": "2023-05-18T02:12:42+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -42,6 +42,16 @@
       "FilePolarity": "Positive"
     },
     {
+      "Path": "dcc-adapter-board-kato-1.310-21mtc-F_Adhesive.gbr",
+      "FileFunction": "Glue,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "dcc-adapter-board-kato-1.310-21mtc-B_Adhesive.gbr",
+      "FileFunction": "Glue,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "dcc-adapter-board-kato-1.310-21mtc-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
@@ -72,8 +82,38 @@
       "FilePolarity": "Negative"
     },
     {
+      "Path": "dcc-adapter-board-kato-1.310-21mtc-User_Drawings.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "dcc-adapter-board-kato-1.310-21mtc-User_Comments.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "dcc-adapter-board-kato-1.310-21mtc-User_Eco1.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "dcc-adapter-board-kato-1.310-21mtc-User_Eco2.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "dcc-adapter-board-kato-1.310-21mtc-Edge_Cuts.gbr",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "dcc-adapter-board-kato-1.310-21mtc-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "dcc-adapter-board-kato-1.310-21mtc-B_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Bot",
       "FilePolarity": "Positive"
     }
   ],
