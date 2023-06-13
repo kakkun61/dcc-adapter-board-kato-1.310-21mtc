@@ -32,4 +32,6 @@ fp-info-cache
 
 
 *.zip
-dcc-adapter-board-kato-1.310-21MTC_*/
+dcc-adapter-board-kato-1.310-21mtc_*/
+*.gbr
+*.drl
