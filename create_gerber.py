@@ -31,4 +31,5 @@ for layerInfo in layerInfos:
   plotController.ClosePlot()
 
 drillWriter = pcbnew.EXCELLON_WRITER(board)
+drillWriter.SetFormat(False) # aMetric = False
 drillWriter.CreateDrillandMapFilesSet(".", aGenDrill = True, aGenMap = False)
